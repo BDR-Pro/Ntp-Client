@@ -22,4 +22,3 @@ if __name__ == "__main__":
         readable_time = new_datetime.strftime('%Y-%m-%d %H:%M:%S UTC')
 
         print(f"Current Time (UTC): {readable_time}")
-current_time
